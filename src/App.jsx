@@ -20,6 +20,8 @@ function App() {
 
 <h2>Deploy en Github pages Guia Yanel</h2>
 
+<h2>Segundo encabezado</h2>
+
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
